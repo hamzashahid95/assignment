@@ -432,11 +432,7 @@ hr.gr {
 
     
 }
-
-
-
-
-    /* body{
+    body{
         width: auto;
     }
     .mdp {
@@ -505,7 +501,7 @@ hr.gr {
     
     /* second Main header smdp open */
     
-    /* .smdp {
+     .smdp {
         display: inline-block;
         background-color: #f7f8fa !important;
         position: fixed;
@@ -543,7 +539,7 @@ hr.gr {
         /* margin-right: -5px; */
     }
     
-    /* .smdc2 a {
+    .smdc2 a {
         font-size: 15px;
         padding: 10px 10px 10px 10px;
         color: black;
@@ -574,8 +570,8 @@ hr.gr {
         background-color: royalblue !important;
         border-radius: 0px 34px 0px 34px;
         position: absolute;
-        /* padding:   10px 10px 10px 10px; */
-        /* left: -44px;
+         padding:   10px 10px 10px 10px;
+         left: -44px;
     }
     
     li.home a {
@@ -587,7 +583,7 @@ hr.gr {
     
     /* open slider */
     
-    /* .slider {
+     .slider {
         position: relative;
         position: relative;
         top: 72px;
@@ -600,12 +596,12 @@ hr.gr {
         transition-property: width;
         transition: 0.2s;
     }
-     */
+    
     /* close slider */
     
     /* open news text banner */
     
-    /* .newshead {
+    .newshead {
         position: relative;
     text-align: center;
     background-color: royalblue;
@@ -615,13 +611,13 @@ hr.gr {
     font-size: 11px;
     height: 19px;
         
-    } */ */
+    } 
     
     /* close news text baner */
     
     /* open intro div  */
     
-    /* .intro {f
+     .intro {f
         text-align: center;
         background-color: #f7f8fa;
         height: 786px;
@@ -654,8 +650,8 @@ hr.gr {
         left: 27px;
     }
     
-    .logohr { */
-        /* float: left;
+    .logohr {
+         float: left;
     margin: 16px 618px;
     position: relative;
     left: -63%;
@@ -679,12 +675,12 @@ hr.gr {
         position: relative;
         left: -9px;
     }
-     */
+    
     /* /* close intro div  * */
     
     /* open approx div */
     
-    /* .tmc {
+    .tmc {
         background-color: rgba(36, 79, 242, 1);
         position: relative;
         width: 103%;
@@ -714,11 +710,11 @@ hr.gr {
     .monthly {
         color: #06ff15;
         font-weight: normal;
-    } */
-     */
+    } 
+
     /* close approx div */
     
-    /* .dlogo {
+     .dlogo {
         text-align: center;
     background-color: #f7f8fa;
     width: 103%;
@@ -894,4 +890,4 @@ hr.gr {
         left: 66%;
     }
     
-} */ */ */
+} 
