@@ -1,0 +1,25 @@
+/* div {
+    display: inline-block;
+    background-color: rgb(45, 226, 138);
+    border-color: rgb(45, 226, 138);
+    width: 15%;
+    height: 172px !important;
+    margin: 90px 17px 0px 0px;
+    left: 20%;
+    position: relative;
+}
+div:hover{
+    cursor: pointer;
+    background-color: rgb(116, 226, 175);
+    border-color: rgb(116, 226, 175);
+    
+}
+a{
+    text-decoration: unset;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: larger;
+    position: relative;
+    left: 22%;
+    top: 40%;
+} */
